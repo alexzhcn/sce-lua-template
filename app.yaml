@@ -1,0 +1,4 @@
+--- Your Appid
+appid: 10000
+install: [nginx]
+start: $LUA_START
